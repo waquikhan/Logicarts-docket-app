@@ -1,0 +1,85 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .continer{
+    height: 260px;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .ContentList{
+    height: 180px;
+    margin-top: 15px;
+    padding: 10px;
+    font-size: large;
+    font-weight: 600;
+  }
+  .ContentList div{
+    text-align: justify;
+    padding: 13px;
+  }
+
+
+
+  /* -------------  Table CSS  -------*/
+  .container{
+    margin-top: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: 400;
+  }
+  .container table thead tr{
+    height: 50px;
+    border: 2px solid rgb(226, 223, 223);
+  }
+
+  .container table tbody tr{
+    height: 50px;
+    border: 2px solid rgb(226, 223, 223);
+    background-color: rgb(230, 229, 229);
+
+  }
+  #BTN-1{
+    background-color:#686868;
+    color: white;
+    margin-left: 35px;
+    width: 70%;
+    text-align: left;
+
+  }
+  #BTN-2{
+    background-color:#686868;
+    color: white;
+    margin-left: 35px;
+    width: 70%;
+    text-align: left;
+
+  }
+  #BTN-3{
+    background-color:#dc7b75;
+    color: white;
+    margin-left: 35px;
+    width: 37%;
+    text-align: left;
+
+  }
+  #BTN-4{
+    background-color:#0b4575;
+    color: white;
+    margin-left: 35px;
+    width: 55%;
+    text-align: left;
+
+  }
+  #BTN-5{
+    background-color:#3cb371;
+    color: white;
+    margin-left: 35px;
+    width: 74%;
+    text-align: left;
+  }
+
+
+
